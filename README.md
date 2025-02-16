@@ -31,12 +31,74 @@ This project is a build with javascript functionality and also with responsive w
 - Async programming
 - DOM manipulation
 
-## project1:
-# Buttons
-This project presents a versatile collection of CSS buttons designed with various styles and animations. Its purpose is to provide web developers with 
-ready-to-use button designs that enhance the visual appeal and functionality of their web applications. The buttons are crafted using pure CSS, ensuring 
-compatibility and ease of integration into any project. With a focus on aesthetics and user experience, these buttons are perfect for adding a polished 
-touch to your web pages.
+# project1
+## BMI-Calculator
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/bmi-calculator/index.html).
 
--   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+# project2
+## Currency-converter
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Currency-converter/index.html).
+
+# project3
+## Digital clock
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/digital-clock/index.html).
+
+# project4
+## Howerboard
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Howerboard/index.html).
+
+
+# project5
+## Key-detector
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Key-detector/index.html).
+
+
+# project6
+## Password-genrator
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Password-genrator/index.html).
+
+# project7
+## Random-jokes-genrator
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Random-jokes-generator/index.html).
+
+# project8
+## Simple Calculator
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/simple%20Calculator/index.html).
+
+# project9
+## stonePaperScissors
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/stonePaperScissors/index.html).
+
+# project10
+## Theme-clock
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Theme-clock/index.html).
+
+# project11
+## Tic-tak-toe
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Tic-tak-toe/index.html).
+
+# project12
+## Timer
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Timer/index.html).
+
+# project13
+## Todo-list
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/todo-list/index.html).
+
+# project14
+## Word-counter
+### Link:
+You can view the deployed project here [Link to the project] (http://127.0.0.1:5500/Word-counter/index.html).
