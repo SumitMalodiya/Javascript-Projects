@@ -34,71 +34,71 @@ This project is a build with javascript functionality and also with responsive w
 # project1
 ## BMI-Calculator
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/bmi-calculator/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//bmi-calculator/).
 
 # project2
 ## Currency-converter
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Currency-converter/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Currency-converter/).
 
 # project3
 ## Digital clock
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/digital-clock/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//digital-clock/).
 
 # project4
 ## Howerboard
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Howerboard/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Howerboard/).
 
 
 # project5
 ## Key-detector
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Key-detector/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Key-detector/).
 
 
 # project6
 ## Password-genrator
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Password-genrator/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Password-genrator/).
 
 # project7
 ## Random-jokes-genrator
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Random-jokes-generator/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Random-jokes-generator/).
 
 # project8
 ## Simple Calculator
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/simple%20Calculator/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//simple%20Calculator/).
 
 # project9
 ## stonePaperScissors
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/stonePaperScissors/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//stonePaperScissors/).
 
 # project10
 ## Theme-clock
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Theme-clock/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Theme-clock/).
 
 # project11
 ## Tic-tak-toe
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Tic-tak-toe/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Tic-tak-toe/).
 
 # project12
 ## Timer
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Timer/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Timer/).
 
 # project13
 ## Todo-list
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/todo-list/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//todo-list/).
 
 # project14
 ## Word-counter
 ### Link:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5500/Word-counter/index.html).
+You can view the deployed project [here](https://sumitmalodiya.github.io/Javascript-Projects//Word-counter/).
